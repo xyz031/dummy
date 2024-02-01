@@ -6,7 +6,7 @@ function About() {
       <>
        <div id="x">
         <h1 className=" text-3xl font-bold underline">
-     About
+     Sex
       </h1>
       </div> 
       </>

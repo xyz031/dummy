@@ -1,0 +1,12 @@
+h1{
+    background-image: url(./portfolio.png);
+   height: 500px;
+   width: 500px;
+  
+}
+#x{
+    height: 1000px;
+    display: flex;
+    margin: 100px;
+  
+}
